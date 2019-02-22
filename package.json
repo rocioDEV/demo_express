@@ -1,0 +1,20 @@
+{
+  "name": "filtrabackv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon ./start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rderandom",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
